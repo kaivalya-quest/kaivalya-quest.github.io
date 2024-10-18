@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is an Kaivalya.Quest™ site<br>
+  <b>This is a Kaivalya.Quest™ site<br>
   meant for academic purposes</b><br>
   <small>
   <a href="about/">More about Kaivalya.Quest™  </a>

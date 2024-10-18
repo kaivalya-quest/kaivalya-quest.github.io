@@ -16,7 +16,7 @@
 title: Kaivalya.Quest™ 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is  an Kaivalya.Quest™ site meant for academic purposes
+  This is  a Kaivalya.Quest™ site meant for academic purposes
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
