@@ -25,6 +25,6 @@ title: Meetings
     };
   const api = new JitsiMeetExternalAPI(domain, options);
   </script>
-  <iframe allow="camera *;microphone *;fullscreen *;autoplay *" src="https://meet.jit.si/AyePagesLivea975c295ddeab5b1a5323df92f61c4cc9fc88207" width="800" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <iframe allow="camera *;microphone *;fullscreen *;autoplay *" src="https://meet.jit.si/Kaivalya.QuestLivea975c295ddeab5b1a5323df92f61c4cc9fc88207" width="800" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 

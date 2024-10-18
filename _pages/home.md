@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: AyePages™ 
+title: Kaivalya.Quest™ 
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
@@ -10,10 +10,10 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is an AyePages™ site<br>
+  <b>This is an Kaivalya.Quest™ site<br>
   meant for academic purposes</b><br>
   <small>
-  <a href="about/">More about AyePages™  </a>
+  <a href="about/">More about Kaivalya.Quest™  </a>
   </small>
 feature_row:
   - image_path: /assets/images/image1.jpg
@@ -27,14 +27,14 @@ feature_row:
   - image_path: /assets/images/image2.jpg
     alt: "Highlight2"
     title: "Fork"
-    excerpt: " With AyePages it is simpler to customise your GitHub Pages site as per your choice, just a fork would serve the purpose<br><br><br>"
+    excerpt: " With Kaivalya.Quest it is simpler to customise your GitHub Pages site as per your choice, just a fork would serve the purpose<br><br><br>"
     url: "/fork/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/image3.jpg
     alt: "Highlight3"
     title: "Deploy"
-    excerpt: " AyePages is flexible and you can adopt it as per needs and choices. You may use it as blog, personal profile, information site and it's your choice!<br><br><br>"
+    excerpt: " Kaivalya.Quest is flexible and you can adopt it as per needs and choices. You may use it as blog, personal profile, information site and it's your choice!<br><br><br>"
     url: "/deploy/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
@@ -44,7 +44,7 @@ feature_row:
 
 {% include feature_row %}
 
-AyePages site demonstrates a user friendly template which is suitable for making personal profiles, trainers profile, Course pages, blogs, etc..
+Kaivalya.Quest site demonstrates a user friendly template which is suitable for making personal profiles, trainers profile, Course pages, blogs, etc..
 
 This site also contains pages that help you to connect with various social media channels, it shows how animations on the site look beautiful, meetings on the site makes life easier.
 

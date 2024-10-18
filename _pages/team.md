@@ -28,7 +28,7 @@ feature_row:
 ### Founding Architect & Convenor
 #### @obonac
 
-Abhishek Choudhary is the founder and managing partner of AyeAI Consulting - a startup developing IaaS for scientific and cognitive computing towards accessible healthcare. 
+Abhishek Choudhary is the founder and managing partner of AyeAI ∴ AyeAM - a startup developing IaaS for scientific and cognitive computing towards accessible healthcare. 
 
 He is also the MD of Interglial Healthcare and acting CEO of Vyas Labs.
 
@@ -46,7 +46,7 @@ He is multidisciplinary trained in Pre-clinical Medicine, Neural Engineering, Me
 ### Technology Evangelist-Pharma and Convenor
 #### @srija-ieee
 
-Dr Srija is the Co-Founder of AyeAI Consulting and heads Company Operations and Pharma lab. She is a Director at Vyas Labs Pvt Ltd and Interglial Healthcare (OPC) Pvt Ltd. 
+Dr Srija is the Co-Founder of AyeAI ∴ AyeAM and heads Company Operations and Pharma lab. She is a Director at Vyas Labs Pvt Ltd and Interglial Healthcare (OPC) Pvt Ltd. 
 
 She is a passionate Entrepreneur experienced in Startup Strategy, New Product Road Map, Requirement Analysis, with skills in Artificial Intelligence for Pharma and Healthcare. She was one among the invitees of Roundtable “Transforming Primary Healthcare – Leveraging Technologies” at NASSCOM Technology and Leadership Forum 2019. She was an invited speaker for IEEE CIS Summer School 2018 and has delivered a hands-on session on topic “AI in Healthcare.” Dr Srija is also familiar with Course Design, Seminars and Workshop delivery. 
 

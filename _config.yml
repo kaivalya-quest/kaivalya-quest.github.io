@@ -15,7 +15,7 @@
 # in the sites via {{ site.myvariable }}.
 # last update @srija-ieee
 
-title: AyePages™ 
+title: Kaivalya.Quest™ 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is a demo website meant for academic purposes.
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AyeAI Consulting"
+  name   : "AyeAI ∴ AyeAM"
   avatar : "/assets/images/ayetutor.png"
-  bio    : "AyeAI is a cognitive edutech company"
+  bio    : "Inclusive Accessible Sustainable Singularity"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
