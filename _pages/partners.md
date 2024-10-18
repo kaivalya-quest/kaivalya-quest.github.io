@@ -19,7 +19,7 @@ feature_row:
 ---
 
 # Partners in Inclusive Development through Cognitization
-#### Project Vikram  is honoured to have the following dignitaries on its panel of advisors
+#### Kaivalya.Quest  is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
 
@@ -29,7 +29,7 @@ feature_row:
 ### AyeAI ∴ AyeAM
 #### @ayeai
 
-AyeAI ∴ AyeAM is a cognitive edutech organization and the primary technical partners for Project Vikram.
+AyeAI ∴ AyeAM is a cognitive edutech organization and the primary technical partners for Kaivalya.Quest.
 
 ## &#10070;
 
@@ -39,6 +39,6 @@ AyeAI ∴ AyeAM is a cognitive edutech organization and the primary technical pa
 ### AyeAI ∴ AyeAM
 #### @ayeai
 
-AyeAI ∴ AyeAM is a cognitive edutech organization and the primary technical partners for Project Vikram.
+AyeAI ∴ AyeAM is a cognitive edutech organization and the primary technical partners for Kaivalya.Quest.
 
 ## &#10070;
